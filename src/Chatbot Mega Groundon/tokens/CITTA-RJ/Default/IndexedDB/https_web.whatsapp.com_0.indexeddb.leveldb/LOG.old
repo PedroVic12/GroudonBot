@@ -1,0 +1,16 @@
+2025/03/30-18:08:17.137 3232d Reusing MANIFEST /home/pedrov12/Documentos/GitHub/Chatbot-Groundon-Wpp/Rayquaza/src/Chatbot Mega Groundon/tokens/CITTA-RJ/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/30-18:08:17.138 3232d Recovering log #519
+2025/03/30-18:08:17.196 3232d Reusing old log /home/pedrov12/Documentos/GitHub/Chatbot-Groundon-Wpp/Rayquaza/src/Chatbot Mega Groundon/tokens/CITTA-RJ/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000519.log 
+2025/03/30-18:08:18.615 3232f Level-0 table #527: started
+2025/03/30-18:08:18.649 3232f Level-0 table #527: 729335 bytes OK
+2025/03/30-18:08:18.650 3232f Delete type=0 #519
+2025/03/30-18:08:18.651 3232e Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/30-18:08:22.954 3232e Compacting 1@1 + 11@2 files
+2025/03/30-18:08:23.100 3232e Generated table #528@1: 89984 keys, 2242248 bytes
+2025/03/30-18:08:23.210 3232e Generated table #529@1: 93165 keys, 2243897 bytes
+2025/03/30-18:08:23.298 3232e Generated table #530@1: 100253 keys, 2251773 bytes
+2025/03/30-18:08:23.385 3232e Generated table #531@1: 99707 keys, 2255934 bytes
+2025/03/30-18:08:23.496 3232e Generated table #532@1: 14033 keys, 2534373 bytes
+2025/03/30-18:08:23.575 3232e Generated table #533@1: 61235 keys, 1816854 bytes
+2025/03/30-18:08:23.576 3232e Compacted 1@1 + 11@2 files => 13345079 bytes
+2025/03/30-18:08:23.576 3232e compacted to: files[ 0 0 6 0 0 0 0 ]
